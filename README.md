@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**Albin-Tenghagen/Albin-Tenghagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello World! 👋
+<article class="Introduction">
+  <h1> 
+    Albin Tenghagen is my name  
+  </h1>
+  
+  <p> Fullstack JavaScript student at ChasAcademy malmö </p>
+  <p> Student mentor working at ChasAcademy malmö </p>
+  
+  <p> Winner of ChasChallenge 2025! </p>
+  <a href="https://chasacademy.se/job/grupp-26-the-fellowship-of-the-code">
+  Winning contribution
+  </a>
+</article>
